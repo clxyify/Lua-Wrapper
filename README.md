@@ -14,4 +14,4 @@ The function `ToWrap` creates a thread that wraps a custom global with user inpu
 
 Here are a list of globals used for **Roblox** if you are choosing to switch to uintptr_t.
 
-printidentity game Game workspace Workspace Axes BrickColor CFrame Color3 ColorSequence ColorSequenceKeypoint NumberRange NumberSequence NumberSequenceKeypoint PhysicalProperties Ray Rect Region3 Region3int16 TweenInfo UDim UDim2 Vector2 Vector2int16 Vector3 Vector3int16 Enum Faces Instance math warn typeof type print printidentity ypcall Wait wait delay Delay tick  pcall  spawn  Spawn
+printidentity game Game workspace Workspace Axes BrickColor CFrame Color3 ColorSequence ColorSequenceKeypoint NumberRange NumberSequence NumberSequenceKeypoint PhysicalProperties Ray Rect Region3 Region3int16 TweenInfo UDim UDim2 Vector2 Vector2int16 Vector3 Vector3int16 Enum Faces Instance math warn typeof type print printidentity ypcall Wait wait delay Delay tick  pcall  spawn  Spawn.
