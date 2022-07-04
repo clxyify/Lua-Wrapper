@@ -9,8 +9,7 @@
 #include <string>
 /*
    this is orignally axon's/hexus's wrapper base.
-   aside from the function pushglobal, thats originally from devs.
-
+   i modded it so its for lua*state so nice
    this will wrap a global and go on from there! useless ikr!
 */
 
